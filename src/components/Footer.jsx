@@ -85,7 +85,7 @@ const Footer = () => {
 
                 <div className="border-t border-gray-900 pt-8 text-center text-gray-500 text-sm">
                     <p>&copy; {new Date().getFullYear()} Feane Restaurant. All rights reserved.</p>
-                    <p className="mt-2">Designed with <span className="text-red-500">&hearts;</span> by Antigravity</p>
+                    <p className="mt-2">Designed with <span className="text-red-500">&hearts;</span> by Gideon Ngeno</p>
                 </div>
             </div>
         </footer>
